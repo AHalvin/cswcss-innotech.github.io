@@ -18,7 +18,8 @@ The aim of the project is to raise awareness of our increasing carbon footprint 
 
 ### InnoTech eLearn Platform
 
-Our eLearning platform developed for students by students, incorporating cloud technologies to benefit students in both academic and extra-curricular activities. Developed using Xamarin for iOS, Android, and Windows Phone.
+Our eLearning platform developed for students by students, incorporating cloud technologies to benefit students in both academic and extra-curricular activities. Developed usin
+g Xamarin for iOS, Android, and Windows Phone.
 
 ### Modern Technologies
 
@@ -26,29 +27,21 @@ Being in close relationship with major technology companies, such as IBM, Dyson,
 
 ## Founding Members
 
-Teacher Advisor: Vic Ng Chi Wai
+Techer Advisor: **Vic Ng Chi Wai**
 
-President: Jordan Fung Tsz Chun ([Personal Website](http://www.jordanfung.com))
+President: **Jordan Fung Tsz Chun** ([Personal Website](http://www.jordanfung.com))
 
-Vice President: Keon Wong Kai Lok ([Website](http://designheaven8.wixsite.com/lego-mania-official))
+Vice President: **Keon Wong Kai Lok** ([Website](http://designheaven8.wixsite.com/lego-mania-official))
 
-Lead secretary:
-Joseph Li Hoi Ming
+Secretaries: **Joseph Li Hoi Ming**, **Zachariah Chang Shu Wei**
 
-Internal secretary:
-Yves Lo Yin Chung
+Financial Secretary: **Alvin Hung Wai Chun**
 
-Financial secretary: 
-Alvin Hung Wai Chun
+Coordinators: **Austin Chan Chi Heng**, **Andrew Lee Ho Wang**, 
 
-External secretary:
-Zachariah Chang Shu Wei
+Lead Developer (Mobile Apps): **Hadrian Tang Wai To**
 
-Coordinators: Austin Chan Chi Heng, Andrew Lee Ho Wang
-
-Lead Developer (Mobile Apps): Hadrian Tang Wai To
-
-Designer: Justin Wong Kong Ki
+Designer: **Justin Wong Kong Ki**
 
 ## Contact Us
 
